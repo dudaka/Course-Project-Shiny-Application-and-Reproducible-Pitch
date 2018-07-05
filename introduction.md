@@ -9,4 +9,8 @@ Specifically, I implement logistic regression and the visualization of the decis
 
 Because of that, we use L2 regularisation to weight/penalise residuals when the parameters of the logistic regression model being learnt. By tuning the value Lambda, we can generalize better because it is less sensitive to extreme variance in the data such as outliers.
 
+## Source code
+
+[Github](https://github.com/dudaka/Course-Project-Shiny-Application-and-Reproducible-Pitch)
+
 ## Interactive Plot
